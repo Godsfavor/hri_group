@@ -1,6 +1,6 @@
 # BlueROV2 Unity Connection - Real Robot
 
-Quick guide to connect Unity to your actual BlueROV2 (not rosbag playback).
+Quick guide to connect Unity to your actual BlueROV2.
 
 ## What You Need Running
 
