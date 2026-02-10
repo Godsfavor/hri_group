@@ -1,5 +1,6 @@
 # BlueROV2 Unity Connection - Real Robot
 
+This was done solely by Godsfavour Ugwu-Gabriel for Team2
 Quick guide to connect Unity to your actual BlueROV2.
 
 ## What You Need Running
